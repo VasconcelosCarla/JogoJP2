@@ -1,2 +1,2 @@
-# JogoJP2
-Jogo desenvolvido pelo aluno João Pedro na aula de Programação de Jogos com JS
+# BaseParaJogo
+Aqui se encontra algumas bibliotecas da p5 para jogo de rolagem infinita
